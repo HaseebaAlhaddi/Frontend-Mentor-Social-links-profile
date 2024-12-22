@@ -39,6 +39,9 @@ main *{
 p{
     color: hsl(0, 0%, 100%);
 }
+ul{
+    padding: 10px;
+}
 li{
     list-style: none;
     width: 300px;
